@@ -1,0 +1,9 @@
+joblib==1.4.2
+tqdm==4.66.5
+pip-chill==1.0.3
+setuptools==74.0.0
+wincertstore
+boto3
+mypy-boto3-s3
+streamlit
+
